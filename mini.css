@@ -1,0 +1,17 @@
+*,*:after,*:before {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body{
+  padding: 0px;
+  margin: 0px;
+  background:#660033;
+}
+.circle {
+  width: 60px;
+  height: 60px;
+  background: green;
+  display: block;
+  border-radius:50%;
+}
